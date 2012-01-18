@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="HADOOP_HOME/hadoop-core-0.20.2-cdh3u0.jar"/>
+	<classpathentry kind="var" path="HADOOP_HOME"/>
+	<classpathentry kind="var" path="HADOOP_HOME/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="var" path="HADOOP_HOME/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
